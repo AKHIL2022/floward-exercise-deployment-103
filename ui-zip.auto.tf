@@ -4,5 +4,5 @@ locals {
   HCLCODE_Test-deployment-10_commitHash = "1ab0e52"
   HCLCODE_Test-deployment-10_commitDate = "2025-07-11T11:35:04+05:30"
   HCLCODE_Test-deployment-10_bucketName = "tf-test-1"
-  HCLCODE_Test-deployment-10_objectName = "HCLCODE_Test/HCLCODE_Test-deployment-10/v20250711-064506.zip"
+  HCLCODE_Test-deployment-10_objectName = "HCLCODE_Test/HCLCODE_Test-deployment-10/v20250711-075408.zip"
 }
