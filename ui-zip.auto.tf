@@ -1,9 +1,8 @@
 # Lambda: HCLCODE_Test-deployment-10
 # Branch: main
 locals {
-  function_src_commit_url = "https://github.com/AKHIL2022/floward-exercise/"
-  function_src_commit_hash = "7302180"
-  function_src_commit_date = "2025-07-11T11:33:44+05:30"
-  function_src_bucket_name = "tf-test-1"
-  function_src_object_name = "HCLCODE_Test/HCLCODE_Test-deployment-10/v20250711-060406.zip"
+  HCLCODE_Test-deployment-10_commitHash = "1ab0e52"
+  HCLCODE_Test-deployment-10_commitDate = "2025-07-11T11:35:04+05:30"
+  HCLCODE_Test-deployment-10_bucketName = "tf-test-1"
+  HCLCODE_Test-deployment-10_objectName = "HCLCODE_Test/HCLCODE_Test-deployment-10/v20250711-060545.zip"
 }
